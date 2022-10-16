@@ -2227,6 +2227,7 @@
   "EQD2mCOEd5iOlknSwmvRxOZ7ZZbYjgXE8SzXpGymBXzqsJnc": "| AROUSAL |",
    
    "EQC2KqdHYK9JkGqZey_Ly32yWyEyvvNBKsG6hTjSCP2ziC5e": "GITB",
+   "EQByMU7XsryEiD7f10Q6wiAmR6sVCQUEgGevcoDg5Fg2ufEV": "GITB 2",
    "EQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F": "Steve Yun",
    "EQCAT7w4NVbNr_hmbEYajjmiV2EGnP9fh52zcbMCiC2P5uY_": "Romanov",
    "EQDOdIsRmUvxWoZVBU0Zxqnb-Z71YF40lhiGWgOqApCrq08G": "Jack Rotgar",
@@ -2237,7 +2238,10 @@
    "EQD2NmD_lH5f5u1Kj3KfGyTvhZSX0Eg6qp2a5IQUKXxOG21n": "Tonkeeper Dev",
   
   "EQBpLYDnP5uKD7qpT0ihg2CkpthgdmLwNdZbCQ5Zy0OPCra1": "wallet.ton",
-  "EQAHPERZSwQD0WRpku6BgcQC44jtLT23G9_g5l0oqnUyyxm0" :"games.ton",
+  "EQAHPERZSwQD0WRpku6BgcQC44jtLT23G9_g5l0oqnUyyxm0": "games.ton",
+  "EQAftZt_bvMZCvdkeJTDvT2cbqwZ-uZPC8TLiDOsUirPBfKj": "binance.ton",
+  "EQDcfO39wf5s0zSwWQRnSWKb3e1U2oLGsFsY11WaA1aILzVa": "earn.ton",
+  "EQBChJ5ATjphzHd-dCxm6dTS5qTBy_9vk36s4m4YZ_dRWNOe": "crypto.ton",
    
    "EQC5VTeQo1K7T0fWJvdiymrjJTUAXVhk3RsZoxzehh0qU4Yo": "Tegro Wallet",
    "EQCudP0_Xu7qi-aCUTCNsjXHvi8PNNL3lGfq2Wcmbg2oN-Jg": "Tegro TON",
@@ -2247,6 +2251,8 @@
    "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f": "Huobi Deposit",
    "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB": "Huobi Withdraw",
    "EQCXggGJKpL3mATXG7t36hc78WLaHM7j47IfXSWdfAAXUmnW": "CoinEx Withdraw",
+   "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp": "Bit.com Deposit",
+   "EQAA7moTrXANKsAr-jTvXjfk1NxNTsYjDs-rupcCwSt0TZYy": "Bit.com Withdraw",
    
    "Ef8guqdIbY6kpMykR8WFeVGbZcP2iuBagXfnQuq0rGrxgPay": "Large Giver 1",
    "Ef9CxReRyaGj0vpSH0gRZkOAitm_yDHvgiMGtmvG-ZTirgiI": "Large Giver 2",
