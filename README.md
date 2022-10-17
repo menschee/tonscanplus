@@ -14,6 +14,12 @@ That is why we decided to create this Google Chrome extension.
 
 - Filter transactions by its type
 
+# Features
+
+- TOP 1000 addresses do not update in real-time
+
+- NFT Royalty addresses were parsed manually
+
 # How to contribute
 
 Please, open [a pull request](https://github.com/menschee/tonscanplus/pulls) if you want to add some addresses to `data.json` file. Don't forget to use .json syntax as well as **give the reason why you contribute this address**.
