@@ -18,6 +18,11 @@ That is why we decided to create this Google Chrome extension.
 
 Please, open [a pull request](https://github.com/menschee/tonscanplus/pulls) if you want to add some addresses to `data.json` file. Don't forget to use .json syntax as well as **give the reason why you contribute this address**.
 
+# How to help the project
+
+If someone is ready to implement a new feature (e.g., TOP 1000 addresses parsing) or you have just found some bug, please, report about it via [Telegram bot](https://t.me/thedailytonbot).
+
+
 # Download
 
 The extenstion is available on Chrome Web Store:
