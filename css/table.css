@@ -1,0 +1,13 @@
+.warning {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    background: red;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}

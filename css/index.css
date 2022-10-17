@@ -1,0 +1,69 @@
+body {
+    background: #202124;
+    color: #969ba1;
+}
+
+#app {
+    width: 400px;
+    margin: 15px;
+}
+
+#app__label__ton-address, #app__label__name, #app__label__toggle {
+    width: 120px;
+}
+
+#app__input__ton-address, #app__input__name, .app__container__toggle {
+    width: 67%;
+}
+
+#app__button__ton-address_and_name {
+    width: 18%;
+    position: static;
+}
+.app__container.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app__container {
+    padding: 5px;
+}
+#app__button__clear-storage {
+    position: flex;
+}
+#app__button__new-tab__table {
+    position: flex;
+}
+
+.app__container.flex-column {
+    flex-direction: column;
+}
+.app__container.flex-left {
+    justify-content: space-between;
+}
+
+#app__toggle {
+    margin-left: 8px;
+}
+
+input[type=radio] {
+    display: none;
+}
+input {
+  width: 75%;
+  height: 25px;
+  margin-top: 5px;
+  text-indent: 5px;
+  font-size: 12.6pt;
+  border-radius: 5px;
+  border: solid 1.5px #D3D3D3;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+input[type=text]:hover{
+  box-shadow: 0 0 5pt 0.5pt #69686c;
+}
+input[type=text]:focus {
+  box-shadow: 0 0 2.5pt 1pt #69686c;
+  outline-width: 0px;
+}
