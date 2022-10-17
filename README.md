@@ -26,5 +26,5 @@ The extenstion is available on Chrome Web Store:
 
 # Special thanks
 
-- [catchain](https://github.com/catchain) — for its convenient explorer
+- [catchain](https://github.com/catchain) — for his convenient explorer
 - [Vudi](https://github.com/Vudi) — for finding an experienced developer
