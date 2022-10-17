@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Tonscan+",
+  "version": "1.1",
+  "description":"Google Chrome extension dedicated to providing a better user experience on tonscan.org",
+  "author": {
+    "name": "The Daily TON",
+    "email": "tonscanplus@gmail.com"
+   },
+  "permissions": [
+      "storage", 
+      "tabs"
+  ],
+  "web_accessible_resources": [
+    { 
+      "resources": ["data/*.json", "config.js", "icons/*.gif", "icons/*.png"],
+      "matches": [ "*://*.tonscan.org/*", "*://tonscan.org/*" ]
+    }
+  ],
+  "content_scripts": [ {
+        "matches": [ "*://*.tonscan.org/*", "*://tonscan.org/*" ],
+        "js": ["js/so.js", "js/loader.js"]
+  }], 
+  "action": {
+    "default_title":"Tonscan+",
+    "default_popup":"index.html"
+  }
+}

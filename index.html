@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+        <link rel="stylesheet" href="css/index.css">
+        <script src="js/jquery-3.6.1.min.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            <div class="app__container flex flex-left">
+                <div class="app__container__toggle">
+                    <div class="btn-group btn-group-toggle" id="app__toggle" data-toggle="buttons">
+                        <label data-state="on" id="app__toggle__on" class="app__toggle btn btn-light">
+                        <input type="radio" name="opt" id="opt1" autocomplete="off" checked> On
+                        </label>
+                        <label data-state="off" id="app__toggle__off" class="app__toggle btn btn-light">
+                        <input type="radio" name="opt" id="opt2" autocomplete="off"> Off
+                        </label>
+                    </div>
+                </div>
+            
+                
+                <button id="app__button__clear-storage" type="button" class="btn btn-dark">Clear</button>
+                <button id="app__button__new-tab__table" type="button" class="btn btn-dark">DB</button>
+                </div>
+
+            <div class="app__container flex flex-column">
+                <div class="app__container">
+                    <label for="ton-address" id="app__label__ton-address" >TON Address:</label>
+                    <input type="text" id="app__input__ton-address" name="ton-address" required minlength="4" maxlength="60">
+                </div>
+                <div class="app__container">
+                    <label for="name" id="app__label__name" >Name:</label>
+                    <input type="text" id="app__input__name" name="name" required minlength="4" maxlength="30">
+                    
+                </div>
+            </div>
+        <div class="app__container flex flex-right"><button id="app__button__ton-address_and_name" type="button" class="btn btn-dark">Add</button></div>
+        </div>
+    </body>
+    <script src="js/index.js"></script> 
+</html>
