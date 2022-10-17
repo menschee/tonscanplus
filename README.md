@@ -14,7 +14,7 @@ That is why we decided to create this Google Chrome extension.
 
 - Filter transactions by its type
 
-# Features
+# Drawbacks
 
 - TOP 1000 addresses do not update in real-time
 
