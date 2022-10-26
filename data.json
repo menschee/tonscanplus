@@ -399,7 +399,6 @@
   "EQA3p6GToPB5oM_jSRZRYcRl7wkHMH6Fl4Z5qYgZuBMKlvdG": "TOP 399",
   "EQAwh5JJQcD_MPJPMOBbzf_wvZ-0O92lg-vzuD0QT20o2tfw": "TOP 400",
   "EQCkJk2ZhXH6NVt9yusfP0ggOhg9I9ajAGdGXbXY6Ry396GG": "TOP 401",
-  "EQCZktd2839Doc2bqr0K2E4Lfu17enAx70E5andCB3WCWmjB": "TOP 402",
   "EQC0cYOQNZUMmyIm6IZXLDKZnrQRUI3Q42-vptNavcWQssCr": "TOP 403",
   "EQBUoaoQ5HY3IaO_TGWLv-yTD0GK5xucTTMsp1aMMMwKIkZy": "TOP 404",
   "EQDHu8w8zJ219w2fymRJWFZLZqPYXfyAz01bwenWHvYgYHSw": "TOP 405",
@@ -734,7 +733,6 @@
   "EQAhLn6JHFwJH6Z2Ia0Y40ePcIYMiD7mnwasp5Iv849aVQ6V": "TOP 737",
   "EQBPf1BBynK-YdSY717Q2x0FCgjqH-0-RZ6b8cKQ1FP5MdLa": "TOP 738",
   "EQAz6TghYKiOgjo1XNoy8WfvnsCeg-qqaCQkFj8ftYSoGpFk": "TOP 739",
-  "EQAPPgN25OQh3EOqqt0v_CRmScxa-_ulVwm5NESN1DO4gcEG": "TOP 740",
   "EQAOLtU-ruCuJfNiJctLm9ofILQBok857IJQRVqVFxKTf_61": "TOP 741",
   "EQB8kpZGTpOl8HcQLUHQcholnq06NEq1OD35JirFZv8CyAgC": "TOP 742",
   "EQD_-MhdeBh4KA1rysJw4vZXg86kTtjtbKPULG5MV47GgbJP": "TOP 743",
@@ -926,7 +924,6 @@
   "EQAH-EEZFfj_5ji61UEWRWyTjL9pRHU-_QhGvYQfhA2oSIk6": "TOP 929",
   "EQATq6fBQEebJdlhZfIDfoI9fxqlPQZla1WXx-T2HGKcCqeq": "TOP 930",
   "Ef-ObjCrAhs11zzTZ6IYofCTl7cwvGSFP_20XaxPp4lcCqLH": "TOP 931",
-  "EQA-SH74S7rGtJIkESpQg4Zmdx40X9-Y2vT1S8kjSORzWjIO": "TOP 932",
   "EQCXSCoU59i3CeZrdCpvvLxD5cnm-CxE8be03sCjD8qkKbCL": "TOP 933",
   "EQALcoGDSrY-bcRek_eJZDOQb-YFIDA394f6Te-fnXvTwjcb": "TOP 934",
   "EQAnUYrR04Vg-gd3EuT67GubEP3UunKNMPekUHMDhW5fh6uR": "TOP 935",
@@ -2237,6 +2234,7 @@
    "EQCO4-TanY4SRQ-bJuDtnEdQOhlSxdSBifnnFBEipfMOxR5h": "Mako (TON Whales)",
   
    "EQCfhdv6WHUT7sfrE4hzRybdbJXhEH6IkEe7uXpBcDNhfu2u": "CorbenDallas777",
+   "EQB9DjoKb6di-LGbXVWf5wq_jH5SE-lCx09fMcVmHQNtDqke": "pyAndr3w",
   
    "Ef99z1s2glL2F1RMbPUoHf6_eaE4tyYFzxDQJ3Dlsj_pllBt": "Validator Tonkeeper",
    "EQDZY6mW24hnH7jNjWHlwr6n81XHyKN7R-hKM1NjYQI6d8O2": "Tonkeeper Team",
@@ -2266,10 +2264,35 @@
    "EQAd1yqw6xhA6woy3RhgOYlRU5sXUQ3_5VOhz-ZbKROO4LCF": "TON App",
    "EQCAC-a6DQGkvLkzb361q0yW_ZbEiB4yGkZTqFuohlGqPYPd": "FS Labs",
    "EQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWJ32": "Andrey Rogozov",
+   
+   "EQCShqrcnFKZSbGGlgwsuknuEx8QJAaeBHbSLCpBEqFE968m": "Getgems",
+  
+   "EQAPPgN25OQh3EOqqt0v_CRmScxa-_ulVwm5NESN1DO4gcEG": "thekiba",
+   "EQDjfz9lwxZ9fG1YKijZfuAKF6xmD5YVbzxLb6njY4C9suta": "foxtails",
+   "EQA-SH74S7rGtJIkESpQg4Zmdx40X9-Y2vT1S8kjSORzWjIO": "foxtails",
   
    "EQCbykfjvFUnCKjtGcMBlhCOpNeu8NqbEYLadplCxAa6Mq-8": "First miner",
    "EQBcwyZbW6W2Y0mygLkAmftbPlHUUl3Ef7n0fQl4VIjxiE3g": "First miner",
    "Ef8vy2a_UqEKNUEk21Kdj7kBVRSJMnCMS4b8ofQt3y3CwFRl": "First miner",
+   "EQBAED9D5r_OAFHCr9UHTt35IPOq580HlNasF0ZtVVhYK6kV": "First miner",
+   "EQBaQnKftEZo0UjRZu46DYsFMwETj39QdNuUuIowCDPjFDzg": "First miner",
+   "EQCmTv-r_KxBAJKIhVFz9eSDSFmPVo-wm_T7PdmxgCNObuKn": "First miner",
+   "EQD1o2HLYpaqbEYPgQwGcKqEoeNDk1_2zZH8_e97D-IcuqMF": "First miner",
+   "EQAiji8hxR8TAY5XacgW3AIuQfsSXQ3bHQUoClH8pIjauWo6": "First miner",
+   "EQAgiSXM4FsqBMHCN4FurZjwbWQV3VOnoL2e-CtzLbV-JDAx": "First miner",
+   "EQAdM77uArYBDwuscIE1oMs4HzWxjtBcg6z9waiL_7rkKfAc": "First miner",
+   "EQBsaYKaIuguPxp0U_DTv0-LdGIUbMLJKsc8q7VDMjHh_FBk": "First miner",
+   "EQCYba5gRA1WotbkTT9Dh2zPh6JCqIi1JmF7R8x_K5KYlYOq": "First miner",
+   "EQCQJ0apRdpc66ThpgHkn00KQaCnaqep4ZFHL-YJL5ahrT7_": "First miner",
+   "EQDboslulkKUYdRX1pa5SQaT2FMOO0in9imqb2MADWpuGKPG": "First miner",
+   "EQA2-0BJ8QzkMlgbwOqNQnqqMVMIRzHEh_GwCtfDGY1Zgaqt": "First miner",
+   "EQC2_qKcC_gXn05I2dPPTQ3wX2zqQzUgUKN50EnYdhQoGdtj": "First miner",
+  
+   "EQDcSYGHbwJSJXuGR8SxTA-uBYv215d3LVrwj5prJ4BYbM2F": "Work Porkas Lompas 2",
+
+   "EQB6poIOA9Vun3KND9esB-O3sbin3yDtgsXyJDfsiO3YYks7": "TON Diamonds",
+   "EQCbaDHDARMlFhARDFKHh_EFhugr_Ffc8cqLkbTXlGwUsyNB": "Cryptobot TON Diamonds",
+   "EQCZktd2839Doc2bqr0K2E4Lfu17enAx70E5andCB3WCWmjB": "Mutant Toadz",
   
   "EQBpLYDnP5uKD7qpT0ihg2CkpthgdmLwNdZbCQ5Zy0OPCra1": "wallet.ton",
   "EQAHPERZSwQD0WRpku6BgcQC44jtLT23G9_g5l0oqnUyyxm0": "games.ton",
