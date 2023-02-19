@@ -40,3 +40,12 @@ The extenstion is available on Chrome Web Store:
 - [catchain](https://github.com/catchain) — for his convenient explorer
 - [Vudi Kingyru](https://t.me/investkingyru) — for finding an experienced developer
 - [The Daily TON](https://t.me/thedailyton) – it's me
+
+# Donation
+
+Speed up the release of a new update by donating to this address: 
+>EQCM2ReRAEkCGaAM33ZUx-_vAj0qPgI5TeBQtIp1tjjFe1aa
+
+or scan this qr-code
+
+![My address: EQCM2ReRAEkCGaAM33ZUx-_vAj0qPgI5TeBQtIp1tjjFe1aa](https://raw.githubusercontent.com/menschee/tonscanplus/main/qr.png)
