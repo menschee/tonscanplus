@@ -6,6 +6,8 @@ The Daily TON team consider it important to bring TON users something that still
 
 That is why we decided to create this Google Chrome extension.
 
+You can also follow the extension's updates [by subscribing to this Telegram channel](https://t.me/tonscanplus).
+
 # Features
 
 - Add your custom names to TON addresses locally
